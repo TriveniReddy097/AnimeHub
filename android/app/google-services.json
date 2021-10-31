@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "885004785484",
+    "project_id": "anime-hub-fa8fb",
+    "storage_bucket": "anime-hub-fa8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885004785484:android:6fdf55092fba14759621e9",
+        "android_client_info": {
+          "package_name": "com.anime_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885004785484-eu20q151eecgl5f42debbuvec36t491l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anime_hub",
+            "certificate_hash": "2cd6d711d6f4618ec60d16c357c0a44710e42700"
+          }
+        },
+        {
+          "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJXHhdXUdLHI2aH24Ujl29Mt6-lft0Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885004785484:android:0bcb4fa5080b2b2f9621e9",
+        "android_client_info": {
+          "package_name": "com.anime_hub.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885004785484-i236gjc91il6ptq9q2qs8o614cng9cja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anime_hub.debug",
+            "certificate_hash": "2cd6d711d6f4618ec60d16c357c0a44710e42700"
+          }
+        },
+        {
+          "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJXHhdXUdLHI2aH24Ujl29Mt6-lft0Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885004785484:android:af1cff67797048579621e9",
+        "android_client_info": {
+          "package_name": "com.anime_hub.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885004785484-l74l70d5s1qucmkcjj7hpm2he2ip0sio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anime_hub.staging",
+            "certificate_hash": "2cd6d711d6f4618ec60d16c357c0a44710e42700"
+          }
+        },
+        {
+          "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJXHhdXUdLHI2aH24Ujl29Mt6-lft0Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885004785484-2p6rstho2a3uvi9jvm263fe83assekcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
